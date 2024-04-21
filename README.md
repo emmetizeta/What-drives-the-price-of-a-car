@@ -227,10 +227,12 @@ drive   0.003 +/- 0.000
 condition0.001 +/- 0.000
 transmission0.000 +/- 0.000
 
-10 Highest Regression Coefficients:
+##### 10 Highest Regression Coefficients:
+
 ![image](https://github.com/emmetizeta/What-drives-the-price-of-a-car/assets/101027884/ed230b0f-647f-4a8b-aec7-e0b4a973803e)
 
-10 Lowest Regression Coefficients:
+##### 10 Lowest Regression Coefficients:
+
 ![image](https://github.com/emmetizeta/What-drives-the-price-of-a-car/assets/101027884/f0b01ed9-23cd-40da-b75a-cd5e9df7e6f3)
 
 ### Observations
@@ -272,24 +274,6 @@ The developed regression model could be also a useful tool to quantify numerical
 - Improving the accuracy of some values in the dataset: many 'other' labels or wrong parameters assigned.
 - Better characterization of a price-penalizing coefficient for the odometer.
 - Developing a more rigorous market analysis regarding the most requested models.
-- Considering more advanced regression models.
+- Considering more advanced regression models to improve the previsions.
 
 ![image](https://github.com/emmetizeta/What-drives-the-price-of-a-car/assets/101027884/77a84bcd-a633-4693-9ee3-4771b5aed7d2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
